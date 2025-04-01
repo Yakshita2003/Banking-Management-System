@@ -1,5 +1,4 @@
 # Banking-Management-System
-# Banking Management System
 
 ## Project Overview
 The **Banking Management System** is a Python-based application designed to facilitate essential banking operations using a **MySQL database**. The system provides functionalities for account management, transaction processing, and data retrieval through a structured menu-driven interface.
