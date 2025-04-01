@@ -25,13 +25,4 @@ The **Banking Management System** is a Python-based application designed to faci
 ## System Requirements
 - **Python 3.x**
 - **MySQL Database**
-- **Required Python Packages** (install using `pip install -r requirements.txt`):
-  - `mysql-connector-python`
-
-## Installation Instructions
-
-### **1. Clone the Repository**
-To get started, clone the repository using Git:
-```bash
-git clone https://github.com/your-username/banking-management-system.git
-cd banking-management-system
+- **Required Python Packages**: `mysql-connector-python`
